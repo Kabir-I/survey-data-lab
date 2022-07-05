@@ -1,1 +1,1 @@
-# survey-data-lab
+# survey-data-lab description - From this data lab, I have imporved my skills regarding analyzing and displaying specific and complexed datasets. Independently, I now know how to create different types of histograms using different types and kinds of datasets
